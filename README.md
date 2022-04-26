@@ -1,2 +1,2 @@
-# digital-innovation-one-introduction-reactjs
+# DIO Introdução ao ReactJS
 Introdução ao ReactJS
